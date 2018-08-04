@@ -1,2 +1,4 @@
-# invie-github
-tus mejores guitarrras invie-sibles by @platzi
+# invie
+Las guitarras más locas
+
+https://axtlotic.github.io/invie-github/
